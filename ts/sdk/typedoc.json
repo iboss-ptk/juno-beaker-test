@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "name": "juno-beaker-test",
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}
